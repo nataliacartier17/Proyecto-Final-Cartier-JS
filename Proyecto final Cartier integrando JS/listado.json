@@ -1,0 +1,142 @@
+[
+    {
+        "portada": "./images/coolwaterwoman.webp",
+        "producto": "Cool Water",
+        "precio": 11000,
+        "genero": "femenino",
+        "id": "1"
+    },
+    {
+        "portada": "./images/missdior.webp",
+        "producto": "Miss Dior",
+        "precio": 20000,
+        "genero": "femenino",
+        "id": "2"
+    },
+    {
+        "portada": "./images/lightbluewoman.webp",
+        "producto": "Light Blue",
+        "precio": 16000,
+        "genero": "femenino",
+        "id": "3"
+    },
+    {
+        "portada": "./images/hypnoticpoison.webp",
+        "producto": "Hypnotic Poison",
+        "precio": 24000,
+        "genero": "femenino",
+        "id": "4"
+    },
+    {
+        "portada": "./images/alien.webp",
+        "producto": "Alien",
+        "precio": 28000,
+        "genero": "femenino",
+        "id": "5"
+    },
+    {
+        "portada": "./images/si.webp",
+        "producto": "Si Giorgio Armani",
+        "precio": 17000,
+        "genero": "femenino",
+        "id": "6"
+    },
+    {
+        "portada": "./images/cher18.webp",
+        "producto": "CHER 18",
+        "precio": 5000,
+        "genero": "femenino",
+        "id": "7"
+    },
+    {
+        "portada": "./images/dylanblue.webp",
+        "producto": "Dylan Blue",
+        "precio": 18000,
+        "genero": "femenino",
+        "id": "8"
+    },
+    {
+        "portada": "./images/coolwaterman.webp",
+        "producto": "Cool Water Man",
+        "precio": 11000,
+        "genero": "masculino",
+        "id": "9"
+    },
+    {
+        "portada": "./images/blueligthbensimon.webp",
+        "producto": "Blue Light",
+        "precio": 12000,
+        "genero": "masculino",
+        "id": "10"
+    },
+    {
+        "portada": "./images/givenchygentelman.webp",
+        "producto": "Gentleman",
+        "precio": 21000,
+        "genero": "masculino",
+        "id": "11"
+    },
+    {
+        "portada": "./images/sauvage.webp",
+        "producto": "Sauvage Dior",
+        "precio": 25000,
+        "genero": "masculino",
+        "id": "12"
+    },
+    {
+        "portada": "./images/toyboy.webp",
+        "producto": "Toy Boy-Moschino",
+        "precio": 17000,
+        "genero": "masculino",
+        "id": "13"
+    },
+    {
+        "portada": "./images/versaceeros.webp",
+        "producto": "Eros Versace",
+        "precio": 17000,
+        "genero": "masculino",
+        "id": "14"
+    },
+    {
+        "portada": "./images/codemen.webp",
+        "producto": "Code Men-Armani",
+        "precio": 16000,
+        "genero": "masculino",
+        "id": "15"
+    },
+    {
+        "portada": "./images/kenzoAqua.webp",
+        "producto": "Aqua Kenzo",
+        "precio": 18000,
+        "genero": "masculino",
+        "id": "16"
+    },
+    {
+        "portada": "./images/ckeveryone.webp",
+        "producto": "Everyone-CK",
+        "precio": 10000,
+        "genero": "unisex",
+        "id": "17"
+    },
+    {
+        "portada": "./images/hermesrose.webp",
+        "producto": "Rosé Hermes",
+        "precio": 19000,
+        "genero": "unisex",
+        "id": "18"
+    },
+    {
+        "portada": "./images/ckone.webp",
+        "producto": "One-Calvin Klein",
+        "precio": 13000,
+        "genero": "unisex",
+        "id": "19"
+    },
+    {
+        "portada": "./images/lapantherecartier.webp",
+        "producto": "La Phantere",
+        "precio": 29000,
+        "genero": "unisex",
+        "id": "20"
+    }
+]
